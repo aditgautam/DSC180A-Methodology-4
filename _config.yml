@@ -1,0 +1,5 @@
+title: DSC 180A Methodology Assignment 4
+description: Adit Gautam's Methodology Assignment 4 site
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
